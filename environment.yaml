@@ -1,0 +1,8 @@
+name: gpx
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - gpxpy
+  - pre-commit
